@@ -323,12 +323,12 @@ footer {
 }
 
 .project-ad {
-	background: url("../img/work/p03/banner-37.png");
+	background: url("../img/work/p03/banner4.png");
 	background-position: bottom;
 }
 
 .project-crystal1 {
-	background: url("../img/work/p04/banner3.png");
+	background: url("../img/work/p04/banner5.png");
 	background-position: bottom;
 }
 
@@ -338,7 +338,7 @@ footer {
 }
 
 .project-333 {
-	background: url("../img/work/p06/banner-44.png");
+	background: url("../img/work/p06/banner-47.png");
 	background-position: 50% 5px;
 }
 
@@ -349,6 +349,21 @@ footer {
 
 .project-tm-vr {
 	background: url("../img/work/p08/lantern1.jpg");
+	background-position: bottom;
+}
+
+.project-pwm {
+	background: url("../img/work/p09/banner7.png");
+	background-position: bottom;
+}
+
+.project-wholive {
+	background: url("../img/work/p10/banner1.png");
+	background-position: bottom;
+}
+
+.project-family {
+	background: url("../img/work/p11/banner2.png");
 	background-position: bottom;
 }
 
